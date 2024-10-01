@@ -11,6 +11,8 @@ Authors:
 ### My experience at MHacks 17
 MHacks 17 was my first ever hackathon experience, and I would say it was a good one. I handled everything related to the front-end, with assistance on layout ideas and some testing from other members.
 
+This is a separate copy of the repository so that I can continue to work on it and experiment in my free time. Please see [supasuge](https://github.com/supasuge) for the original public repository, and the [devpost](https://devpost.com/software/lectures-expedited).
+
 ### Future work
 I will organize this project into two primary branches -- one will be the final product of the hackathon, and the other will be an updated version as I continue this project.
 
